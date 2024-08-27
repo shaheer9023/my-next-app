@@ -23,7 +23,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
                     </nav>  
                 </header>  
                 <main className="flex-grow p-4">{children}</main>  
-                <footer className="bg-blue-600 text-white p-4 text-center">  
+                <footer className="bg-orange-400 text-white p-4 text-center">  
                     © 2023 My Next.js App  
                 </footer>  
             </body>  
